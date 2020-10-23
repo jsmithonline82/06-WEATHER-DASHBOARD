@@ -25,6 +25,8 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 WHEN I open the weather dashboard
 THEN I am presented with the last searched city forecast
-``
+
+```
+
 ![ScreenShot](https://github.com/jsmithonline82/06-WEATHER-DASHBOARD/raw/main/ScreenShot.jpg)
 [DEPLOYMENT](https://jsmithonline82.github.io/06-WEATHER-DASHBOARD/)
